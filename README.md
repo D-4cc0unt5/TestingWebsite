@@ -18,15 +18,14 @@ Decide what are the IT requirements for this small company to become an eBusines
 What software will need to be purchased for a small business like this? You will need to recommend software and state the reasons for your choice. 
 - server-ubuntu, nginx, mysql, django, htlm, css
   
-
 ## Company Website
 You will be required to produce an MVP  explaining the main features, functions and navigation.
 - ecommerce like site, take online sales or pick up in person
 - tourism history of clifden and the shop itself
 - contact us, email, phone, map location opens google maps.
-  
-  
-  
+### Android App
+- similar layout to website, same color palette,same logo, same content, but more convenient than website, can open facebook, twitter, instagram, tiktok, email, maps, phone call.
+    
 ## Branding
 You will be required to design a new Logo in a format of your choice and any other branding that may be required.
 (You can rebrand and be as creative as you wish)
@@ -35,9 +34,11 @@ You will be required to design a new Logo in a format of your choice and any oth
 ## Marketing & Awareness 
 How will we tell customers about our new business? How can we capture a new market etc?
 - SEO
+- keep all accounts with same name, so check all, before creating one.
 - facebook, twitter, instagram, tiktok
 - facebook ads, parish newsletter, 
   
-  
-## Budget	You have a budget of 5000  eur. Please justify your choices and recommendations and include costings.
-  see it infrastructure
+## Budget
+You have a budget of 5000  eur. Please justify your choices and recommendations and include costings.
+- it infrastructure ~€2000
+- marketing ~€3000
